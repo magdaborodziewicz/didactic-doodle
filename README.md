@@ -8,24 +8,24 @@ Markdown to lekki język znaczników (czyli sposób zapisu formatowania), który
 Pewnie się zastanawiasz, jak uzyskać w markdownie nagłówek 1, 2 i 3 rzędu. Robi się to za pomocą kratki (krzyżyka, hasha) przed tekstem nagłówka. Jeden hash oznacza nagłówek najwyższego rzędu, dwa hashe nagłówek drugiego rzędu – i tak dalej, aż do 4 (h1, h2, h3, h4). 
 ## 1.2.	Dlaczego markdown jest popularny?
 Spróbuj zrobić taką listę:
-•	Jest prosty – nauczysz się go w 10 minut.
-•	Działa wszędzie: 
-o	GitHub, 
-o	GitLab, 
-o	VS Code, 
-o	Notion, 
-o	Discord, 
-o	Reddit.
-•	Pozwala pisać czytelne dokumenty, nawet bez edytora graficznego.
-•	Działa dobrze w połączeniu z kodem, dlatego uwielbiają go programiści.
+*	Jest prosty – nauczysz się go w 10 minut.
+*	Działa wszędzie: 
+    *	GitHub, 
+    *	GitLab, 
+    *	VS Code, 
+    *	Notion, 
+    *	Discord, 
+    *	Reddit.
+*	Pozwala pisać czytelne dokumenty, nawet bez edytora graficznego.
+*	Działa dobrze w połączeniu z kodem, dlatego uwielbiają go programiści.
 Aby uzyskać efekt punktowania w markdownie, zastąp punktory gwiazdką (*), jeżeli chcesz uzyskać podpunkty, daj tabulator przed gwiazdką.
 ## 1.3.	Wyróżnienia w markdownie
 ### 1.3.1.	Kursywa
-Ten fragment pisany kursywą możesz uzyskać, otaczając tekst pojedynczą gwiazdką lub pojedynczym podkreślnikiem.
+*Ten fragment pisany kursywą możesz uzyskać, otaczając tekst pojedynczą gwiazdką lub pojedynczym podkreślnikiem.*
 ### 1.3.2.	Pogrubienie
-Ten fragment pisany boldem możesz uzyskać, otaczając tekst dwoma gwiazdkami lub dwoma podkreślnikami.
+**Ten fragment pisany boldem możesz uzyskać, otaczając tekst dwoma gwiazdkami lub dwoma podkreślnikami.**
 ### 1.3.3.	Pogrubienie i kursywa
-Jak myślisz, ilu gwiazdek musisz użyć, by uzyskać ten efekt?
+***Jak myślisz, ilu gwiazdek musisz użyć, by uzyskać ten efekt?***
 ## 1.4.	Fragmenty kodu
 Znaczniki <code> <quote> czy <text>, aby wyświetlały się jako znaczniki, muszą być otoczone znakiem `. 
 Jeśli wklejasz dłuższy kod, np. taki:
